@@ -16,14 +16,21 @@
 
 **Required Materials**
 
--  Liu, Fenrong, and Jialong Zhang, 2010, “New Perspectives on Moist Logic,”*Journal of Chinese Philosophy*, 37(4): 605–21
+- Liu, Fenrong, and Jialong Zhang, 2010, “New Perspectives on Moist Logic,”*Journal of Chinese Philosophy*, 37(4): 605–21
+
 - Fraser, Chris, 2011, “Knowledge and Error in Early Chinese Thought,” Dao: A Journal of Comparative Philosophy, 10(2): 127–48
+
 - Lucas, Thierry, 2005, “Later Mohist Logic, Lei, Classes, and Sorts”Journal of Chinese Philosophy, 32(3): 349–65
+
 - Stephens, Daniel J., 2017, “Realism and Conventionalism in Later Mohist Semantics,” *Dao: A Journal of Comparative Philosophy*, 16(4): 521–542
+
 - Fung, Y. M. . 2020. Reason (gu 故) and principle (li 理).
+
 - Lucas, T. 2018. Limits of logic in moism. *Journal of Chinese Philosophy,* *45*(3-4).
 
-**Required Text **
+  
+
+**Required Text**
 
 - Chris Fraser, The Mohist Dialectics, digital supplement to part IV of The Essential Mòzǐ (Oxford: Oxford University Press, 2020)
 
